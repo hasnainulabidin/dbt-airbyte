@@ -2,4 +2,4 @@
     materialized="table"
 )}}
 
-SELECT name,region FROM claimscustom.country
+SELECT name,age FROM claimscustom.company
