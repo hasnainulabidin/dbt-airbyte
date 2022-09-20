@@ -2,4 +2,4 @@
     materialized="table"
 )}}
 
-SELECT name,age FROM claimscustom.company
+SELECT name,age FROM claimsstage.company
